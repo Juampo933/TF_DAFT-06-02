@@ -69,7 +69,7 @@ CSV Limpios corresponde a los archivos obtenidos despues de los procesos ETL y E
 
 <br>
 
-En esta carpeta se guardaró nuestro archivo(.pbix) con el Dashboard final para presentar a nuestros clientes de ANY Manufacturing.
+En esta carpeta esta el link con nuestro Dashboard para presentar a nuestros clientes de ANY Manufacturing. Se dirige a la app de PowerBi donde se puede interactuar en tiempo real. 
 
 <br>
 
