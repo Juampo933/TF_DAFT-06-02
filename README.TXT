@@ -1,4 +1,4 @@
-# REPOSITORIO PROYECTO ANY MANUFACTURING
+
 
 Limpieza y transformación de datos: Identificación y corrección de valores atípicos o faltantes, normalización de variables y eliminación de posibles fuentes de sesgo.
 
