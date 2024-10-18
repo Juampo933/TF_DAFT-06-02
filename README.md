@@ -70,3 +70,11 @@ CSV Limpios corresponde a los archivos obtenidos despues de los procesos ETL y E
 <br>
 
 En esta carpeta se guardaró nuestro archivo(.pbix) con el Dashboard final para presentar a nuestros clientes de ANY Manufacturing.
+
+<br>
+
+## Carpeta Reporte Final
+
+<br>
+
+En esta carpeta se encuentra nuestro reporte final sobre todo el trayecto y trabajos realizados con conclusiones y recomendaciones para ANY Manufacturing.
