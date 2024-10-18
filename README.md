@@ -44,7 +44,7 @@ Nuestro objetivo se centró en las sugerencias para resolver los problemas con l
 <br>
 
 En esta apartado se encuentran la carpeta de ETL y EDA, donde los archivos con extensión(.ipynb) contienen el proceso de limpiesa y la exploracion de analisis de datos para este proyecto. \
-En la carpeta Automatización de ingesta se ecuentra el reporte y explicación del proceso, el script con el proceso completo de automatización para la carga incremental de datos utilizando Python. Este proceso está diseñado para transferir los nuevos registros de manera eficiente hacia la base de datos, que está alojada la nube de la platafomra Azure con extensión de SQL Server, con la implementacion de la bilioteca Watchdogs para la observacion de una carpeta segura y una clase asegurando que solo se carguen los datos que no existían previamente en la base de datos, optimizando así el rendimiento y la gestión de los recursos.
+En la carpeta Automatización de ingesta se ecuentra el reporte y explicación del proceso, el script con el proceso completo de automatización para la carga incremental de datos utilizando Python. Está diseñado para transferir los nuevos registros de manera eficiente hacia la base de datos, que está alojada la nube de la platafomra Azure con extensión de SQL Server, con la implementacion de la bilioteca Watchdogs para la observacion de una carpeta segura y una clase asegurando que solo se carguen los datos que no existían previamente en la base de datos, optimizando así el rendimiento y la gestión de los recursos.
 
 <br>
 
